@@ -68,3 +68,319 @@ C:\Users\kutay\Masaüstü\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
 C:\Users\kutay\Masaüstü\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\kutay\Masaüstü\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
 C:\Users\kutay\Masaüstü\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\kutay\Masaüstü\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\kutay\Masaüstü\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\Serhat\Desktop\KutaySonKod\Yeni klasör\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form2.resources
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form2.resources
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\kutay\Masaüstü\serhat 17.02\serhat17.02\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form2.resources
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\Serhat\Desktop\kutay 16.02 00.55\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Properties.Resources.resources
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.exe
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.deps.json
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.runtimeconfig.json
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.AssemblyReference.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.ResolveComReference.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form1.resources
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form2.resources
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Properties.Resources.resources
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.GenerateResource.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfoInputs.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.AssemblyInfo.cs
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CoreCompileInputs.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.csproj.CopyComplete
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\refint\Pasta.dll
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.pdb
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.genruntimeconfig.cache
+C:\Users\kutay\Masaüstü\serhat_18.08_16.02.23\serhat 18.08 16.02.23\Pasta\Pasta\obj\Debug\net6.0-windows\ref\Pasta.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Form2.resources
+C:\Users\kutay\OneDrive\Belgeler\GitHub\ExcelFiltre\Pasta\Pasta\obj\Debug\net6.0-windows\Pasta.Properties.Resources.resources
